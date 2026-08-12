@@ -1,4 +1,4 @@
-# ☁️ 星云机场 & 星辰VPN · 双产品地址导航
+﻿# ☁️ 星云机场 & 星辰VPN · 双产品地址导航
 
 > 一个进阶一个省心，按需选择，也可以双持互为备用
 > 🔑 星云邀请码：`6FZCMQJY` ｜ 星辰邀请码：`CJiWQBhR`
@@ -9,8 +9,8 @@
 
 | 产品 | 官网地址 | 邀请码 |
 |------|---------|--------|
-| ☁️ 星云机场 | https://www.xingyunjichang.com/#/register?code=*** | `6FZCMQJY` |
-| 🌟 星辰VPN | https://c.kilxs.cn/?code=*** | `CJiWQBhR` |
+| ☁️ 星云机场 | https://www.xingyunjichang.com/#/register?code=6FZCMQJY | `6FZCMQJY` |
+| 🌟 星辰VPN | https://c.kilxs.cn/?code=CJiWQBhR | `CJiWQBhR` |
 
 > 地址如遇访问异常，请查看本仓库最近更新或提 Issue 获取最新地址。
 > 建议 **Star ⭐ 收藏**，地址变动第一时间看到。
@@ -77,12 +77,12 @@
 ## 📝 注册步骤
 
 **星云机场**：
-1. 打开 https://www.xingyunjichang.com/#/register?code=***
+1. 打开 https://www.xingyunjichang.com/#/register?code=6FZCMQJY
 2. 填写邮箱注册，邀请码填 **`6FZCMQJY`**
 3. 选择套餐，按官网教程导入订阅
 
 **星辰VPN**：
-1. 打开 https://c.kilxs.cn/?code=***
+1. 打开 https://c.kilxs.cn/?code=CJiWQBhR
 2. 注册账号，邀请码填 **`CJiWQBhR`**
 3. 下载对应客户端，一键连接
 
